@@ -6,7 +6,7 @@ title: Qiangbo Zhang
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master Candidate of Optical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
